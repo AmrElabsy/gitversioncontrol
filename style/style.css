@@ -1,0 +1,49 @@
+
+
+.navbar-custom {
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.navbar-custom input {
+    border-radius: 0;
+}
+
+.navbar-custom i {
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.icon .nav-link {
+    margin: 0;
+}
+
+.header {
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(90deg, rgb(173, 96, 208), rgb(58, 40, 174));
+    overflow: hidden;
+}
+
+.header .image img {
+    width: 60%;
+    margin-top: 100px;
+}
+
+.services {
+    background-color: #FEF;
+}
+
+.services i {
+    font-size: 40px;
+    color: rgb(201, 113, 214);
+}
+
+.services span {
+    display: block;
+}
+
+.services .service {
+    font-size: 24px;
+}
